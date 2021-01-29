@@ -90,7 +90,7 @@ $page->html_body = '
         <!--Grid column-->
         <div class="col-md-6 mb-4">
 
-          <img src="/img/recyclage.png" class="img-fluid" alt="">
+          <img src="https://cdn.pixabay.com/photo/2014/04/02/10/56/recycling-304974_960_720.png" height="500" width="300" class="img-fluid" alt="">
 
         </div>
         <!--Grid column-->
@@ -107,11 +107,11 @@ $page->html_body = '
               </span>
             </p>
 
-            <p class="lead font-weight-bold green-text ">Description</p>
+            <p class="lead font-weight-bold green-text ">Recyclage</p>
 
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et dolor suscipit libero eos atque quia ipsa
-              sint voluptatibus!
-              Beatae sit assumenda asperiores iure at maxime atque repellendus maiores quia sapiente.</p>
+            <p>Bonjour à tous,
+            c\'est en écrivant ça que je me rends compte que le développement web bordel c\'est vraiment à chier putain allez tous vous faire foutre.
+            <br>Cordialement.</p>
 
             <form class="d-flex justify-content-left">
               <!-- Default input -->
@@ -139,11 +139,9 @@ $page->html_body = '
         <!--Grid column-->
         <div class="col-md-6 text-center">
 
-          <h4 class="my-4 h4 green-text">Nous vous recommendons</h4>
+          <h4 class="my-4 h4 green-text">Nous vous recommandons</h4>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus suscipit modi sapiente illo soluta odit
-            voluptates,
-            quibusdam officia. Neque quibusdam quas a quis porro? Molestias illo neque eum in laborum.</p>
+          <p>Eco-Service ainsi que toute son équipe vous recommande vivement d\'aller tous bien vous faire enculer.</p>
 
         </div>
         <!--Grid column-->
@@ -187,17 +185,14 @@ $page->html_body = '
 
   <!--Footer-->
   <footer class="page-footer text-center font-small mt-4 wow fadeIn">
-
-
     <!--Copyright-->
     <div class="footer-copyright py-3">
-      © 2019 Copyright:
-      <a href="https://mdbootstrap.com/education/bootstrap/" target="_blank"> MDBootstrap.com </a>
+       2021 Copyright:
+      <a href="index.php"> Eco-Service.com </a>
     </div>
     <!--/.Copyright-->
 
   </footer>
-  <!--/.Footer-->
 
   <!-- SCRIPTS -->
   <!-- JQuery -->
